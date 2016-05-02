@@ -1,0 +1,41 @@
+{
+  "name": "no-whitespace",
+  "version": "1.0.0",
+  "description": "Remove absolutely all whitespace from a string.",
+  "license": "MIT",
+  "repository": "radiovisual/no-whitespace",
+  "author": {
+    "name": "Michael Wuergler",
+    "email": "wuergler@gmail.com",
+    "url": "numetriclabs.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "string",
+    "from",
+    "characters",
+    "chars",
+    "spaces",
+    "space",
+    "whitespace",
+    "all",
+    "forbid",
+    "extract",
+    "erase",
+    "delete",
+    "remove"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.14.0",
+    "xo": "^0.14.0"
+  }
+}
