@@ -34,6 +34,12 @@ Type: `string`
 The string you want to remove all whitespace characters from.
 
 
+
+## Related
+
+- [selective-whitespace](https://github.com/radiovisual/selective-whitespace) Condense all whitespace in a string, with options to preserve specific whitespace characters.
+
+
 ## License
 
 MIT © [Michael Wuergler](http://numetriclabs.com)
